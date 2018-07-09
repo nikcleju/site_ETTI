@@ -34,6 +34,6 @@ DEFAULT_DATE = 'fs'
 
 #THEME = 'blueidea'
 
-PLUGIN_PATHS = ['~//pelican-plugins']
-PLUGINS = ['assets', 'sitemap', 'gravatar']
+PLUGIN_PATHS = ['~/source/pelican-plugins']
+PLUGINS = ['pelican_collate_content'] # TO CHECK IF NEEDED, seems to available by default
 
