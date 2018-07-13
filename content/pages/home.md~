@@ -21,5 +21,6 @@ Technical University of Iasi (TUIASI)
 
 # Latest news
 
-* [Teme licență 2019]({filename}/content/pages/TemeLicenta2019.md)
+* [Idei de teme 2010]({filename}/content/Didactic/TemeLicenta2020.md)
+* [Teme licență 2019]({filename}/content/Didactic/TemeLicenta2019.md)
 

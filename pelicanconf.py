@@ -33,7 +33,19 @@ DEFAULT_PAGINATION = False
 DEFAULT_DATE = 'fs'
 
 #THEME = 'blueidea'
+#THEME = 'themes/elegant'
+#THEME = 'themes/bootstrap'
+THEME = 'themes/pelican-bootstrap3'
 
-PLUGIN_PATHS = ['~/source/pelican-plugins']
-PLUGINS = ['pelican_collate_content'] # TO CHECK IF NEEDED, seems to available by default
+PLUGIN_PATHS = ['/home/ncleju/source/pelican-plugins']
+PLUGINS = ['i18n_subsites']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+I18N_SUBSITES = {}
 
+# For pelican-bootstrap3 theme
+ABOUT_ME='Dr. Nicolae Cleju<br/>Șef de lucrări / Reader<br/>ETTI<br/>TUIASI'
+SIDEBAR_ON_LEFT =True
+
+# for Elegant theme
+#LANDING_PAGE_ABOUT = {"title":"aaa","details":"bbb"}
+#RECENT_ARTICLES_COUNT  = 10
