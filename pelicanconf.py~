@@ -45,6 +45,7 @@ I18N_SUBSITES = {}
 # For pelican-bootstrap3 theme
 ABOUT_ME='Dr. Nicolae Cleju<br/>Șef de lucrări / Reader<br/>ETTI<br/>TUIASI'
 SIDEBAR_ON_LEFT =True
+BOOTSTRAP_THEME = 'LUX'
 
 # for Elegant theme
 #LANDING_PAGE_ABOUT = {"title":"aaa","details":"bbb"}

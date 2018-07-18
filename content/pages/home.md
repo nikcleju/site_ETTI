@@ -11,7 +11,7 @@ Universitatea Tehnică "Gheorghe Asachi" din Iași
 
 ------
 
-Here you will find details about my didactic and research activity.
+Here you will find details about my teaching and research activity.
 
 Dr. Nicolae Cleju<br/>
 Reader<br/>
